@@ -1,8 +1,4 @@
-/*
-Q1) Write program to define class Person with data member as Personname,Aadharno, Panno.
-Accept information for 5 objects and display appropriate information (use this keyword).
-import java.util.Scanner;
-*/
+//Q1
 class Person 
 {
     private String Personname;
@@ -55,15 +51,8 @@ public class Slip30
         scanner.close();
     }
 }
+//Q2
 
-/*
-Q2) Write a program that creates a user interface to perform integer divisions. The user enters two 
-numbers in the text fields, Number1 and Number2. The division of Number1 and Number2 is 
-displayed in the Result field when the Divide button is clicked. If Number1 or Number2 were 
-not an integer, the program would throw a NumberFormatException. If Number2 were Zero, 
-the program would throw an Arithmetic Exception Display the exception in a message 
-dialog box.
-*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
