@@ -1,8 +1,4 @@
-/*
-Q1)Define an interface “Operation” which has method volume( ).Define a constant PI having a value 
-3.142 Create a class cylinder which implements this interface (members – radius,height). Create 
-one object and calculate the volume.
-*/
+//Q1
 import java.util.Scanner;
 interface operation
 {
@@ -36,10 +32,7 @@ public class Slip11
      }
 }
 
-/* 
-Q2) Write a program to accept the username and password from user if username and password are
-not same then raise "Invalid Password" with appropriate msg.
-*/
+//Q2
 import java.util.Scanner;
 class InvalidPasswordException extends Exception
 {
