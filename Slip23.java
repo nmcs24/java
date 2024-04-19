@@ -1,9 +1,4 @@
-/*
-Q1)Define a class MyNumber having one private int data member. Write a default constructor to 
-initialize it to 0 and another constructor to initialize it to a value (Use this). Write methods 
-isNegative, isPositive, isZero, isOdd, isEven. Create an object in main.Use command line 
-arguments to pass a value to the Object.
-*/
+//Q1
 import java.util.Scanner;
 class MyNumber
 {
@@ -55,12 +50,8 @@ class MyNumber
    		m.Zero();  		
  }
 }
+//Q2
 
-/*
-Q2) Write a simple currency converter, as shown in the figure. User can enter the amount of 
-"Singapore Dollars", "US Dollars", or "Euros", in floating-point number. The converted values shall be 
-displayed to 2 decimal places. Assume that 1 USD = 1.41 SGD, 1 USD = 0.92 Euro, 1 SGD = 0.65 Euro.
-*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
