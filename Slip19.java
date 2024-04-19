@@ -1,6 +1,4 @@
-/*
-Q1)Write a program to accept the two dimensional array from user and display sum of its diagonal elements.
-*/
+//Q1
 import java.io.*;
 import java.util.*;
 public class Slip19
@@ -41,11 +39,7 @@ public class Slip19
         System.out.println("Sum of diagonal elements :"+sum);		
 	}
 }
-
-/*
-Q2) Write a program which shows the combo box which includes list of T.Y.B.Sc.(Comp. Sci) 
-subjects. Display the selected subject in a text field
-*/
+//Q2
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
