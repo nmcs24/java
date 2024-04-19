@@ -1,8 +1,4 @@
-/*
-Q1)Design a Super class Customer (name, phone-number).Derive a class Depositor(accno,balance) 
-from Customer. Again, derive a class Borrower (loan-no, loan-amt) from Depositor. Write 
-necessary member functions to read and display the details of ‘n’customers.
-*/
+//Q1
 import java.util.Scanner;
 class Customer 
 {
@@ -94,13 +90,7 @@ public class Slip17
         }
     }
 }
-
-/*
-Q2) Write Java program to design three text boxes and two buttons using swing. Enter different 
-strings in first and second textbox. On clicking the First command button, concatenation of 
-two strings should be displayed in third text box and on clicking second command button,
-reverse of string should display in third text box
-*/
+//Q2
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
