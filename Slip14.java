@@ -1,7 +1,4 @@
-/*
-Q1) Write a program to accept a number from the user, if number is zero then throw user defined 
-exception “Number is 0” otherwise check whether no is prime or not (Use static keyword).
-*/
+//Q1
 import java.io.*;
 import java.util.*;
 
@@ -50,17 +47,7 @@ public class Slip14
 
 	}
 }
-
-/*
-Q2)Write a Java program to create a Package “SY” which has a class SYMarks (members–ComputerTotal,
-MathsTotal,and ElectronicsTotal) Create another package TY which has a class TYMarks
-(members – Theory, Practicals).Create ‘n’ objects of Student class(having rollNumber,name,SYMarks & TYMarks)
-Add the marks of SY and TY computer subjects and calculate the Grade 
-(‘A’ for >= 70, ‘B’ for >= 60 ‘C’ for >= 50, Pass Class for > =40 else‘FAIL’) and display the result 
-of the student in proper format.
-*/
-
-//SYMarks
+//Q2
 package SY;
 import java.util.Scanner;
 public class SYMarks 
