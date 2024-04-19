@@ -1,5 +1,4 @@
 //Q1)
-//Write a Program to print all Prime numbers in an array of ‘n’ elements(use command line arguments) 
 import java.util.*;
 import java.io.*;
 public class Slip01
@@ -29,9 +28,8 @@ public class Slip01
 		  }
 		}
 }
+
 //Q2) 
-//Define an abstract class staff with protected members id and name.Define a parameterized constructor define
-//one subclass OfficeStaff with member department. Create n objects of OfficeStaff and display all details.
 
 import java.util.*;
 abstract class Staff 
