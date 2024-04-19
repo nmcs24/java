@@ -1,7 +1,5 @@
-/*
-Q1) Write a program to create a class Customer(custno,custname,contactnumber,custaddr).Write a method 
-to search the customer name with given contact number and display the details. 
-*/
+//Q1
+
 import java.util.ArrayList;
 import java.util.Scanner;
 class Customer 
@@ -85,13 +83,8 @@ public class Slip29
         scanner.close();
     }
 }
+//Q2
 
-/*
-Q2) Write a program to create a super class Vehicle having members Company and price.Derive two 
-different classes LightMotorVehicle(mileage) and HeavyMotorVehicle (capacity_in_tons) Accept the 
-information for "n" vehicles and display the information in appropriate form. While taking data, ask
-user about the type of vehicle first.
-*/
 import java.util.Scanner;
 class Vehicle 
 {
