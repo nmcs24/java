@@ -1,4 +1,4 @@
-//Q1) Write a program to find the Square of given number using function interface. 
+//Q1
 import java.util.Scanner;
 interface fun
 {
