@@ -1,7 +1,4 @@
-/*
-Q1) Accept the names of two files and copy the contents of the first to the second. First file having
-Book name and Author name in file. 
-*/
+//Q1
 import java.io.*;
 import java.util.*;
 import java.io.File;
@@ -27,12 +24,8 @@ class Slip15
       }
       
 }
-/*
-Q2) Write a program to define a class Account having members custname, accno. Define default 
-and parameterized constructor. Create a subclass called SavingAccount with member savingbal, 
-minbal. Create a derived class AccountDetail that extends the class SavingAccount with 
-members, depositamt and withdrawalamt. Write a appropriate method to display customer details.
-*/
+//Q2
+
 import java.util.Scanner;
 
 class Account
