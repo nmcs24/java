@@ -1,11 +1,4 @@
-/*
-Q1) 
-Define a “Clock” class that does the following ; 
-a.Accept Hours, Minutes and Seconds
-b.Check the validity of numbers
-c.Set the time to AM/PM mode
-Use the necessary constructors and methods to do the above task 
-*/
+//Q1
 import java.util.Scanner;
 class Clock 
 {
@@ -59,13 +52,7 @@ public class Slip09
     }
 }
 
-
-/* 
-Q2) 
-Write a program to using marker interface create a class Product (product_id, product_name,
-product_cost, product_quantity) default and parameterized constructor. Create objectsof class 
-product and display the contents of each object and Also display the object count.
-*/
+//Q2
 interface Countable{
 }
 class Product implements Countable
