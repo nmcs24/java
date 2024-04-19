@@ -1,7 +1,4 @@
-/*
-Q1) Create a class Student(rollno, name ,class, per), to read student information from the console 
-and display them (Using BufferedReader class) 
-*/
+//Q1
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -59,11 +56,7 @@ public class Slip25
         }
     }
 }
-
-/*
-Q2) Create the following GUI screen using appropriate layout manager. Accept the name, class, 
-hobbies from the user and display the selected options in a textbox
-*/
+//Q2
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
