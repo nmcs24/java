@@ -1,9 +1,4 @@
-/*
-Q1) Write a program to create an abstract class named Shape that contains two integers and an empty 
-method named printArea(). Provide three classes named Rectangle, Triangle and Circle such that each 
-one of the classes extends the class Shape. Each one of the classes contain only the method 
-printArea() that prints the area of the given shape. (use method overriding).
-*/
+//Q1
 import java.util.Scanner;
 abstract class Shape
 {
@@ -114,11 +109,8 @@ public class Slip22
     }
 }
 
+//Q2
 
-/*
-Q2) Write a program that handles all mouse events and shows the event name at the center of the 
-Window, red in color when a mouse event is fired. (Use adapter classes).
-*/
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
