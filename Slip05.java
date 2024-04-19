@@ -1,8 +1,5 @@
 /*
 //Q1) 
-//Write a program for multilevel inheritance such that Country is inherited from Continent. 
-//State is inherited from Country. Display the place, State, Country and Continent.
-*/
 import java.util.Scanner;
 class continent
 {
@@ -56,8 +53,7 @@ class Slip05
 }
 
 //Q2) 
-//Write a menu driven program to perform the following operations on multidimensional array ie matrices :
-//Addition,Multiplication,Exit.
+
 import java.util.*; 
 class Matrix 
 { 
