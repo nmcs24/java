@@ -1,8 +1,4 @@
-/*Q1)
-//Write a program to read the First Name and Last Name of a person, his weight and height using command
-//line arguments. Calculate the BMI Index which is defined as the individual's body mass divided by the
-//square of their height(Hint:BMI=Wts.In kgs/(ht)2)
-*/
+//Q1
 import java.util.*;
 import java.io.*;
 public class Slip02
@@ -45,10 +41,6 @@ public class Slip02
 }
 
 //Q2) 
-//Define a class CricketPlayer (name,no_of_innings,no_of_times_notout, totatruns, bat_avg). 
-//Create an array of n player objects .Calculate the batting average for each player using static
-//method avg().Define a static sort method which sorts the array on the basis of average. Display
-//the player details in sorted order
 
 import java.io.*;
 public class Cricket
