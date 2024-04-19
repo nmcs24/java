@@ -1,10 +1,5 @@
-/*
+
 Q1) 
-Design a class for Bank. Bank Class should support following operations; 
-a.Deposit a certain amount into an account
-b.Withdraw a certain amount from an account
-c.Return a Balance value specifying the amount with details
-*/
 import java.util.Scanner;
 public class S7Q1
 {
@@ -85,12 +80,7 @@ public class S7Q1
         }
     }
 }
-
-/*
-//Q2) 
-//Write a program to accept a text file from user and display the contents of a file in 
-//reverse order and change its case.
-*/
+//Q2
 import java.io.*;
 import java.util.*;
 class Slip07
