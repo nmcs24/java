@@ -1,7 +1,4 @@
-/*
-Q1)Write a program to accept a file name from command prompt, if the file exits then display 
-number of words and lines in that file.
-*/
+//Q1
 import java.io.*;
 import java.util.*;
 class Slip13
@@ -37,15 +34,7 @@ public static void main(String args[])throws IOException
 	}
 }
 }
-
-/* 
-Q2)Write a program to display the system date and time in various formats shown below:
-Current date is : 31/08/2021
-Current date is : 08-31-2021
-Current date is : Tuesday August 31 2021
-Current date and time is : Fri August 31 15:25:59 IST 2021
-Current date and time is : 31/08/21 15:25:59 PM +0530
-*/
+//Q2
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
