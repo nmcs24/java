@@ -1,7 +1,6 @@
-/*
+
 //Q1) 
-//Write a program to accept ‘n’ name of cities from the user and sort them in ascending order.
-*/
+
 import java.util.Scanner;
 import java.util.Arrays;
 class Slip03
@@ -26,13 +25,9 @@ class Slip03
 			System.out.println(a[i]);
 	}
 }
-/*
+
 //Q2) 
-//Define a class patient (patient_name, patient_age, patient_oxy_level,patient_HRCT_report).
-//Create an object of patient. Handle appropriate exception while patient oxygen level less than
-//95% and HRCT scan report greater than 10, then throw user defined Exception “Patient is Covid
-//Positive(+) and Need to Hospitalized” otherwise display its information.
-*/
+
 import java.util.*;
 class patient 
 {
