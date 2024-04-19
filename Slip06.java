@@ -1,4 +1,4 @@
-//Q1) Write a program to display the Employee(Empid,Empname,Empdesignation,Empsal)information using toString()
+//Q1
 import java.util.Scanner;
 class emp
 {
@@ -33,10 +33,7 @@ class Slip06
 		System.out.println(e1.toString());		
 	}
 }
-
-//Q2)Create an abstract class “order” having members id,description.Create two subclasses “PurchaseOrder” 
-//& “Sales Order” having members customer name & Vendor name respectively. Definemethods accept & display 
-//in all cases.Create 3 objects each of Purchase Order and Sales Order and accept and display details.
+//Q2
 import java.util.Scanner;
 abstract class order
 {
