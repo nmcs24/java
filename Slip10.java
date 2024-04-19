@@ -1,6 +1,4 @@
-/*
-Q1) Write a program to find the cube of given number using functional interface.
-*/
+//Q1
 import java.util.Scanner;
 interface fun
 {
@@ -18,15 +16,7 @@ public class Slip10
 	    System.out.println("Cube:"+ans);
 	}
 }
-
-/*
-Q2) 
-Write a program to create a package name student. Define class StudentInfo with method to
-display information about student such as rollno, class, and percentage. Create another class
-StudentPer with method to find percentage of the student. Accept student details like
-rollno, name, class and marks of 6 subject from user.
-*/
-//studentinfo
+//Q2
 package student;
 public class StudentInfo
 {
