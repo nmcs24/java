@@ -1,8 +1,4 @@
-/*
-Q1)Create an abstract class 'Bank' with an abstract method 'getBalance'. Rs.100, Rs.150 and Rs.200 are 
-deposited in banks A, B and C respectively. 'BankA', 'BankB' and 'BankC' are subclasses of class 'Bank',
-each having a method named 'getBalance'.Call this method by creating an object of each of the three classes.
-*/
+//Q1
 abstract class Bank 
 {
     public abstract int getBalance();
@@ -47,11 +43,7 @@ public class Slip24
     }
 }
 
-
-/*
-Q2) Program that displays three concentric circles where ever the user clicks the mouse on a frame. 
-The program must exit when user clicks ‘X’ on the frame.
-*/
+//Q2
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.MouseAdapter;
