@@ -1,9 +1,4 @@
-/*
-Q1) Define an Employee class with suitable attributes having getSalary() method, which returns
-salary withdrawn by a particular employee. Write a class Manager which extends a class
-Employee, override the getSalary() method, which will return salary of manager by adding
-traveling allowance, house rent allowance etc. 
-*/
+//Q1
 import java.util.Scanner;
 class Employee 
 {
@@ -62,14 +57,7 @@ public class Slip27
     }
 }
 
-
-/*
-Q2) Write a program to accept a string as command line argument and check whether it is a file or 
-directory. Also perform operations as follows:
-i)If it is a directory,delete all text files in that directory. Confirm delete operation from
-user before deleting text files. Also, display a count showing the number of files deleted, if any, 
-from the directory. ii)If it is a file display various details of that file
-*/
+//Q2
 import java.util.*;
 import java.io.*;
 
