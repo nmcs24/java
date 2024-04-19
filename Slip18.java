@@ -1,6 +1,4 @@
-/*
-Q1) Write a program to implement Border Layout Manager.
-
+//Q1
 import javax.swing.*;
 import java.awt.*;
 public class S18Q1 {
@@ -30,11 +28,8 @@ public class S18Q1 {
         frame.setVisible(true);
     }
 }
-*/
-//Q2) Define a class CricketPlayer (name,no_of_innings,no_of_times_notout, totatruns, bat_avg).
-//Create an array of n player objects.Calculate the batting average for each player using static
-//method avg(). Define a static sort method which sorts the array on the basis of average. 
-//Display the player details in sorted order.
+//Q2
+
 import java.io.*;
 public class Cricket
 {
