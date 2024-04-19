@@ -1,7 +1,4 @@
-/*
-Q1) Write a Program to illustrate multilevel Inheritance such that country is inherited from 
-continent. State is inherited from country. Display the place, state, country and continent.
-*/
+//Q1
 import java.util.Scanner;
 class continent
 {
@@ -53,12 +50,7 @@ class Slip20
 	    System.out.println("Place:"+pname);	
 	 }
 }
-
-/*
-Q2) Write a package for Operation, which has two classes, Addition and Maximum. Addition has 
-two methods add () and subtract (), which are used to add two integers and subtract two,
-float values respectively. Maximum has a method max () to display the maximum of two integers
-*/
+//Q2
 
 import Operation.Addition;
 import Operation.Maximum;
