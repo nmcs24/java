@@ -1,7 +1,4 @@
-/*
-Q1)Write a program to create parent class College(cno, cname, caddr) and derived class 
-Department(dno, dname) from College. Write a necessary methods to display College details.
-*/
+//Q1
 class College 
 {
     int cno;
@@ -44,11 +41,7 @@ public class Slip12
         System.out.println("Department Name: " + d.dname);
     }
 }
-
-/*
-Q2) Write a java program that works as a simple calculator. Use a grid layout to arrange buttons for
-the digits and for the +, -, *, % operations. Add a text field to display the result
-*/
+//Q2
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
