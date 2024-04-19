@@ -1,8 +1,6 @@
-/*
+
 Q1) 
-Create a class Sphere, to calculate the volume and surface area of sphere.
-(Hint : Surface area=4*3.14(r*r), Volume=(4/3)3.14(r*r*r))
-*/
+
 import java.util.Scanner;
 class sphere
 {
@@ -42,11 +40,8 @@ class Slip07
 	
 }
 
-/*
-Q2) 
-Design a screen to handle the Mouse Events such as MOUSE_MOVED and MOUSE_CLICKED and display 
-the position of the Mouse_Click in a TextField.
-*/
+//Q2) 
+
 import java.awt.*;
 import java.awt.event.*;
 
