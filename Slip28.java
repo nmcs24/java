@@ -1,8 +1,4 @@
-/*
-Q1) Write a program that reads on file name from the user, then displays information about 
-whether the file exists, whether the file is readable, whether the file is writable, the type
-of file and the length of the file in bytes.
-*/
+//Q1
 import java.io.*;
 import java.util.*;
 public class Slip28
@@ -34,14 +30,8 @@ public class Slip28
 		}
 	}
 }
+//Q2
 
-/*
-Q2) Write a program called SwingTemperatureConverter to convert temperature values 
-between Celsius and Fahrenheit.User can enter either the Celsius or the Fahrenheit value,
-in floating-point number.Hints:To display a floating-point number in a specific format 
-(e.g.,1 decimal place),use the static method String.format(),which has the same form 
-as printf().For example,String.format("%.1f", 1.234) returns String "1.2".
-*/
 import javax.swing.*;
 import java.util.*;
 import java.text.*;
